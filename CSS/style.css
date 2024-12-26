@@ -3,7 +3,7 @@
 }
 
 .banner {
-    background-image: url(./image//blue\ &\ pink.jpg);
+    background-image: url(../image//blue\ &\ pink.jpg);
     min-height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
